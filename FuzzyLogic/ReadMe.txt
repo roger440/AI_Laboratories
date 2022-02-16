@@ -1,0 +1,1 @@
+A game which uses Fuzzy Logic rules to determine how to apply forces to a cart, in order to keep it in ballance.
